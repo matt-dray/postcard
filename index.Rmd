@@ -1,0 +1,26 @@
+---
+title: "Matt Dray"
+image: "matt.jpg"
+links:
+  - Blog: "https://www.rostrum.blog/"
+  - Twitter: "https://twitter.com/mattdray/"
+  - GitHub: "https://github.com/matt-dray/"
+output:
+  postcards::jolla
+---
+
+<link rel="stylesheet" media="screen" href="http://fontlibrary.org/face/fantasque-sans-mono" type="text/css"/>
+
+```{css, echo=FALSE}
+* {
+  font-family: 'FantasqueSansMonoRegular';
+  font-weight: normal;
+  font-style: normal;
+}
+```
+
+`r emo::ji("chart_with_upwards_trend")` Data-botherer for the UK Civil Service
+
+`r emo::ji("fallen_leaf")` PhD Ecology `r emo::ji("beetle")` MSc Entomology `r emo::ji("petri_dish")` BSc Biology
+
+`r emo::ji("man_technologist")` #rstats blogger
