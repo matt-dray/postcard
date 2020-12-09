@@ -22,6 +22,6 @@ favicon: favicon.gif
 
 `r emo::ji("chart_with_upwards_trend")` Data-botherer for the UK Civil Service
 
-`r emo::ji("fallen_leaf")` PhD Ecology `r emo::ji("beetle")` MSc Entomology `r emo::ji("petri_dish")` BSc Biology
+`r emo::ji("fallen_leaf")` PhD Ecology `r emo::ji("beetle")` MSc Entomology `r emo::ji("microscope")` BSc Biology
 
 `r emo::ji("man_technologist")` #rstats blogger
