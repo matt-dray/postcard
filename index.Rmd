@@ -10,14 +10,13 @@ output:
 favicon: favicon.ico
 ---
 
-<link rel="stylesheet" media="screen" href="http://fontlibrary.org/face/fantasque-sans-mono" type="text/css"/>
-
 ```{css, echo=FALSE}
-* {
-  font-family: 'FantasqueSansMonoRegular';
-  font-weight: normal;
-  font-style: normal;
+@font-face {
+    font-family: 'FantasqueSansMonoRegular'; 
+    src: url('fantasquesansmono-regular.otf') format("opentype");
 }
+
+* { font-family: 'FantasqueSansMonoRegular'; }
 ```
 
 `r emo::ji("chart_with_upwards_trend")` Data-botherer for the UK Civil Service
