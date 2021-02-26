@@ -20,7 +20,7 @@ favicon: favicon.ico
 * { font-family: 'FantasqueSansMonoRegular'; }
 ```
 
-`r emo::ji("chart_with_upwards_trend")` Data-botherer for the UK Civil Service
+`r emo::ji("chart_with_upwards_trend")` Data-botherer in the UK's public sector
 
 `r emo::ji("fallen_leaf")` PhD Ecology `r emo::ji("beetle")` MSc Entomology `r emo::ji("microscope")` BSc Biology
 
