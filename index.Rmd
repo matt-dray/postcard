@@ -2,10 +2,14 @@
 title: "Matt Dray"
 image: "matt.jpg"
 links:
-  - Blog: "https://www.rostrum.blog/"
-  - Twitter: "https://twitter.com/mattdray/"
-  - GitHub: "https://github.com/matt-dray/"
-  - Projects: "https://github.com/matt-dray/projects/blob/main/README.md"
+  - label: Blog 
+    url: "https://www.rostrum.blog/"
+  - label: Twitter 
+    url: "https://twitter.com/mattdray/"
+  - label: GitHub 
+    url: "https://github.com/matt-dray/"
+  - label: Projects
+    url: "https://matt-dray.github.io/projects/"
 output:
   postcards::jolla
 favicon: favicon.ico
@@ -24,4 +28,4 @@ favicon: favicon.ico
 
 `r emo::ji("fallen_leaf")` PhD Ecology `r emo::ji("beetle")` MSc Entomology `r emo::ji("microscope")` BSc Biology
 
-`r emo::ji("man_technologist")` #rstats blogger
+`r emo::ji("man_technologist")` #RStats blogger
