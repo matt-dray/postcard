@@ -8,8 +8,6 @@ links:
     url: "https://github.com/matt-dray/"
   - label: Projects
     url: "https://matt-dray.github.io/projects/"
-  - label: Twitter 
-    url: "https://twitter.com/mattdray/"
   - label: Mastodon
     url: "https://fosstodon.org/\\@mattdray"
 output:
